@@ -8,7 +8,7 @@
 Requierements before installing:
 1. mysql
 2. xampp/wamp
-3. react
+3. Node.js
 4. php latest version
 5. composer
 6. apache
